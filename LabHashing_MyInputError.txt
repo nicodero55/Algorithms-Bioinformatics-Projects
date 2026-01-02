@@ -1,0 +1,14 @@
+605.421 Foundations of Algorithms 		            Project 1
+
+Supplemental Input: Invalid Entry
+
+
+9	124	10	172
+98	87	1	12
+61	hi34	69	101
+33	158	113	82
+94	110	143	181
+109	35	189	inv116
+84	157	40	16
+10	17	189	23
+18	200	124	87
