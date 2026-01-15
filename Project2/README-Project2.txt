@@ -1,13 +1,13 @@
-### Proj2_CompiledCode_NicolasEscudero.java ###
+### MAIN-Project2.java ###
 
-Proj2_CompiledCode_NicolasEscudero.java is a Java method library for the implementation and execution 
-of hashing techniques. 
+MAIN-Project2.java is a Java method library for the implementation and execution 
+of various hashing techniques. 
 
 ## Installation
 
 Use the command line prompts to call for class. Specify using:
 
-Directory % javac Proj2_CompiledCode_NicolasEscudero.java
+Directory % javac MAIN-Project2.java
 
 
 ## Usage
@@ -16,32 +16,26 @@ Directory % javac Proj2_CompiledCode_NicolasEscudero.java
 Use command line prompt to first call for input file to be read into program.
 Use following format: 
 
-Directory % java "file.txt"
+Directory % java "filename.txt"
 
-Where file.txt = name of the actual file in appropriate directory.
+Where filename.txt = name of the actual file in appropriate directory.
 Example: 
 
-Directory % java "LabHashingInput.txt"
-
+Directory % java "Input-Example1.txt"
 
 
 # returns "Proj2_Output.txt" Output file for Assigned input
-Directory % java "LabHashingInput.txt"
-
-# returns "Proj2_Output.txt" Output file for one supplement input case
-Directory % java "LabHashing_MyInput36.txt"
-
-# returns "Proj2_Output.txt" Output file for another supplement input case
-Directory % java "LabHashing_MyInput108.txt"
+Directory % java "Input-Example1.txt"
 
 
 ## Contributing
 
 For major method edits, please contact nescude1@jh.edu for further discussion on a proposed change.
 
-Addition of new test cases are welcome, as well as edits to MAIN. 
+Addition of new test cases are welcome, as well as edits to MAIN-Project2.java. 
 Please update tests as needed. 
 
 ## License
 
 Johns Hopkins University License 2025
+
