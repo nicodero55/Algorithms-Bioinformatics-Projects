@@ -1,0 +1,1806 @@
+OUTPUT:
+
+
+DP LCS Sequence 1 AND 2:
+GC 
+Optimal Aligned Sequence: 
+G-C--
+GTCGT
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 1 AND 2:
+GC
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 3:
+AGC 
+Optimal Aligned Sequence: 
+A--GC
+ATTGC
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 1 AND 3:
+AGC
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 4:
+A 
+Optimal Aligned Sequence: 
+AGC
+A--
+Counted Steps for Alignment: 
+18
+
+Brute Force LCS Sequence 1 AND 4:
+C
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 5:
+AGC 
+Optimal Aligned Sequence: 
+A---GC
+ACTTGC
+Counted Steps for Alignment: 
+24
+
+Brute Force LCS Sequence 1 AND 5:
+AGC
+Counted Steps for Alignment: 
+76609
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 6:
+GC 
+Optimal Aligned Sequence: 
+G-C-
+GTCT
+Counted Steps for Alignment: 
+16
+
+Brute Force LCS Sequence 1 AND 6:
+GC
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 7:
+AC 
+Optimal Aligned Sequence: 
+A-GC-
+AT-CT
+Counted Steps for Alignment: 
+17
+
+Brute Force LCS Sequence 1 AND 7:
+AC
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 8:
+A 
+Optimal Aligned Sequence: 
+AGC
+A--
+Counted Steps for Alignment: 
+15
+
+Brute Force LCS Sequence 1 AND 8:
+C
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 9:
+AG 
+Optimal Aligned Sequence: 
+A-GC
+AGG-
+Counted Steps for Alignment: 
+13
+
+Brute Force LCS Sequence 1 AND 9:
+AG
+Counted Steps for Alignment: 
+361
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 10:
+G 
+Optimal Aligned Sequence: 
+AG-C
+-GT-
+Counted Steps for Alignment: 
+19
+
+Brute Force LCS Sequence 1 AND 10:
+G
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 11:
+AGC 
+Optimal Aligned Sequence: 
+A--GC
+ATCGC
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 1 AND 11:
+AGC
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 12:
+GC 
+Optimal Aligned Sequence: 
+AG-C-
+-GTCA
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 1 AND 12:
+GC
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 13:
+AGC 
+Optimal Aligned Sequence: 
+AGC
+AGC
+Counted Steps for Alignment: 
+21
+
+Brute Force LCS Sequence 1 AND 13:
+AGC
+Counted Steps for Alignment: 
+76609
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 14:
+GC 
+Optimal Aligned Sequence: 
+AGC-
+-GCT
+Counted Steps for Alignment: 
+16
+
+Brute Force LCS Sequence 1 AND 14:
+GC
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 15:
+AG 
+Optimal Aligned Sequence: 
+A-G-C
+ATGT-
+Counted Steps for Alignment: 
+17
+
+Brute Force LCS Sequence 1 AND 15:
+AG
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 16:
+A 
+Optimal Aligned Sequence: 
+AGC
+A--
+Counted Steps for Alignment: 
+15
+
+Brute Force LCS Sequence 1 AND 16:
+C
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 3:
+GC 
+Optimal Aligned Sequence: 
+GTCGT
+G-C--
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 2 AND 3:
+TG
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 4:
+TC 
+Optimal Aligned Sequence: 
+GTC-GT
+-TCA--
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 2 AND 4:
+CT
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 5:
+GC 
+Optimal Aligned Sequence: 
+GTCGT
+G-C--
+Counted Steps for Alignment: 
+35
+
+Brute Force LCS Sequence 2 AND 5:
+CT
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 6:
+GTCT 
+Optimal Aligned Sequence: 
+GTCGT
+GTC-T
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 2 AND 6:
+GTCT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 7:
+TCT 
+Optimal Aligned Sequence: 
+GTCGT
+-TC-T
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 2 AND 7:
+TCT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 8:
+TC 
+Optimal Aligned Sequence: 
+GTC-GT
+-TCA--
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 2 AND 8:
+TC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 9:
+GG 
+Optimal Aligned Sequence: 
+GTCGT
+G--G-
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 2 AND 9:
+GG
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 10:
+GTGT 
+Optimal Aligned Sequence: 
+GT-CGT
+GTG-GT
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 2 AND 10:
+GTGT
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 11:
+TCG 
+Optimal Aligned Sequence: 
+GTCG-T
+-TCGC-
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 2 AND 11:
+TCG
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 12:
+GTC 
+Optimal Aligned Sequence: 
+GTC-GT
+GTCA--
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 2 AND 12:
+GGT
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 13:
+GC 
+Optimal Aligned Sequence: 
+GTCGT
+G-C--
+Counted Steps for Alignment: 
+35
+
+Brute Force LCS Sequence 2 AND 13:
+CT
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 14:
+GCT 
+Optimal Aligned Sequence: 
+GTCGT
+G-C-T
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 2 AND 14:
+GCT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 15:
+TGT 
+Optimal Aligned Sequence: 
+GTCGT
+-T-GT
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 2 AND 15:
+TGT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 16:
+TG 
+Optimal Aligned Sequence: 
+GTCG-T
+-T-GA-
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 2 AND 16:
+CT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 4:
+TTC 
+Optimal Aligned Sequence: 
+ATTGC-
+-TT-CA
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 3 AND 4:
+TTC
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 5:
+ATTGC 
+Optimal Aligned Sequence: 
+A-TTGC
+ACTTGC
+Counted Steps for Alignment: 
+36
+
+Brute Force LCS Sequence 3 AND 5:
+ATTGC
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 6:
+TT 
+Optimal Aligned Sequence: 
+AT-TGC
+-TCT--
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 3 AND 6:
+TC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 7:
+ATT 
+Optimal Aligned Sequence: 
+AT-TGC
+ATCT--
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 3 AND 7:
+ATC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 8:
+TC 
+Optimal Aligned Sequence: 
+ATTGC-
+--T-CA
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 3 AND 8:
+TC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 9:
+AG 
+Optimal Aligned Sequence: 
+A-TTGC
+AG--G-
+Counted Steps for Alignment: 
+21
+
+Brute Force LCS Sequence 3 AND 9:
+AG
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 10:
+TT 
+Optimal Aligned Sequence: 
+AT--TGC
+-TGGT--
+Counted Steps for Alignment: 
+32
+
+Brute Force LCS Sequence 3 AND 10:
+TG
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 11:
+ATGC 
+Optimal Aligned Sequence: 
+AT-TGC
+ATC-GC
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 3 AND 11:
+ATGC
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 12:
+TC 
+Optimal Aligned Sequence: 
+ATTGC-
+--T-CA
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 3 AND 12:
+TC
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 13:
+ATGC 
+Optimal Aligned Sequence: 
+A-T-TGC
+ACTA-GC
+Counted Steps for Alignment: 
+37
+
+Brute Force LCS Sequence 3 AND 13:
+ATGC
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 14:
+GC 
+Optimal Aligned Sequence: 
+ATTGC-
+---GCT
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 3 AND 14:
+GC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 15:
+ATT 
+Optimal Aligned Sequence: 
+AT-TGC
+ATGT--
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 3 AND 15:
+ATG
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 16:
+TG 
+Optimal Aligned Sequence: 
+ATTG-C
+--TGA-
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 3 AND 16:
+TG
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 5:
+CTTC 
+Optimal Aligned Sequence: 
+CTT-CA
+CTTGC-
+Counted Steps for Alignment: 
+36
+
+Brute Force LCS Sequence 4 AND 5:
+CTTC
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 6:
+CT 
+Optimal Aligned Sequence: 
+CTTCA
+C-T--
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 4 AND 6:
+TC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 7:
+CT 
+Optimal Aligned Sequence: 
+CTTCA
+C-T--
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 4 AND 7:
+TC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 8:
+CTCA 
+Optimal Aligned Sequence: 
+CTTCA
+C-TCA
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 4 AND 8:
+CTCA
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 9:
+A 
+Optimal Aligned Sequence: 
+A--
+AGG
+Counted Steps for Alignment: 
+18
+
+Brute Force LCS Sequence 4 AND 9:
+A
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 10:
+TT 
+Optimal Aligned Sequence: 
+CT--TCA
+-TGGT--
+Counted Steps for Alignment: 
+32
+
+Brute Force LCS Sequence 4 AND 10:
+TT
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 11:
+CC 
+Optimal Aligned Sequence: 
+C-TTCA
+CG--C-
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 4 AND 11:
+TC
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 12:
+TCA 
+Optimal Aligned Sequence: 
+CTTCA
+--TCA
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 4 AND 12:
+TCA
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 13:
+CTC 
+Optimal Aligned Sequence: 
+CT--TCA
+CTAG-C-
+Counted Steps for Alignment: 
+37
+
+Brute Force LCS Sequence 4 AND 13:
+CTA
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 14:
+CT 
+Optimal Aligned Sequence: 
+CTTCA
+C-T--
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 4 AND 14:
+CT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 15:
+TT 
+Optimal Aligned Sequence: 
+CT-TCA
+-TGT--
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 4 AND 15:
+TT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 16:
+CTA 
+Optimal Aligned Sequence: 
+CT-TCA
+CTG--A
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 4 AND 16:
+CTA
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 6:
+CT 
+Optimal Aligned Sequence: 
+ACTTGC
+-C-T--
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 5 AND 6:
+TC
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 7:
+ACT 
+Optimal Aligned Sequence: 
+A-CTTGC
+ATC-T--
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 5 AND 7:
+ATC
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 8:
+CTC 
+Optimal Aligned Sequence: 
+CTTGC-
+C-T-CA
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 5 AND 8:
+CTC
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 9:
+AG 
+Optimal Aligned Sequence: 
+A-CTTGC
+AG---G-
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 5 AND 9:
+AG
+Counted Steps for Alignment: 
+76609
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 10:
+TT 
+Optimal Aligned Sequence: 
+ACT--TGC
+--TGGT--
+Counted Steps for Alignment: 
+38
+
+Brute Force LCS Sequence 5 AND 10:
+TG
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 11:
+ACGC 
+Optimal Aligned Sequence: 
+A-CTTGC
+ATC--GC
+Counted Steps for Alignment: 
+37
+
+Brute Force LCS Sequence 5 AND 11:
+ATGC
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 12:
+TC 
+Optimal Aligned Sequence: 
+ACTTGC-
+---T-CA
+Counted Steps for Alignment: 
+37
+
+Brute Force LCS Sequence 5 AND 12:
+TC
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 13:
+ACTGC 
+Optimal Aligned Sequence: 
+ACT-TGC
+ACTA-GC
+Counted Steps for Alignment: 
+43
+
+Brute Force LCS Sequence 5 AND 13:
+ACTGC
+Counted Steps for Alignment: 
+851929
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 14:
+CT 
+Optimal Aligned Sequence: 
+ACTTGC
+-C-T--
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 5 AND 14:
+GC
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 15:
+ATT 
+Optimal Aligned Sequence: 
+ACT-TGC
+A-TGT--
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 5 AND 15:
+ATG
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 16:
+CTG 
+Optimal Aligned Sequence: 
+CTTG-C
+C-TGA-
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 5 AND 16:
+CTG
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 7:
+TCT 
+Optimal Aligned Sequence: 
+GTCT
+-TCT
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 6 AND 7:
+TCT
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 8:
+TC 
+Optimal Aligned Sequence: 
+GTC-T
+-TCA-
+Counted Steps for Alignment: 
+21
+
+Brute Force LCS Sequence 6 AND 8:
+TC
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 9:
+G 
+Optimal Aligned Sequence: 
+GTCT
+G---
+Counted Steps for Alignment: 
+16
+
+Brute Force LCS Sequence 6 AND 9:
+G
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 10:
+GTT 
+Optimal Aligned Sequence: 
+GT--CT
+GTGG-T
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 6 AND 10:
+GTT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 11:
+GC 
+Optimal Aligned Sequence: 
+GTCT
+G-C-
+Counted Steps for Alignment: 
+24
+
+Brute Force LCS Sequence 6 AND 11:
+TC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 12:
+GTC 
+Optimal Aligned Sequence: 
+GTC-T
+GTCA-
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 6 AND 12:
+GTC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 13:
+GC 
+Optimal Aligned Sequence: 
+GTCT
+G-C-
+Counted Steps for Alignment: 
+28
+
+Brute Force LCS Sequence 6 AND 13:
+CT
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 14:
+GCT 
+Optimal Aligned Sequence: 
+GTCT
+G-CT
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 6 AND 14:
+GCT
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 15:
+GT 
+Optimal Aligned Sequence: 
+GTCT
+G--T
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 6 AND 15:
+TT
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 16:
+CT 
+Optimal Aligned Sequence: 
+CT--
+CTGA
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 6 AND 16:
+CT
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 8:
+TC 
+Optimal Aligned Sequence: 
+ATC-T
+-TCA-
+Counted Steps for Alignment: 
+21
+
+Brute Force LCS Sequence 7 AND 8:
+TC
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 9:
+A 
+Optimal Aligned Sequence: 
+A--TCT
+AGG---
+Counted Steps for Alignment: 
+18
+
+Brute Force LCS Sequence 7 AND 9:
+A
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 10:
+TT 
+Optimal Aligned Sequence: 
+AT--CT
+-TGG-T
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 7 AND 10:
+TT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 11:
+ATC 
+Optimal Aligned Sequence: 
+AT--CT
+ATCGC-
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 7 AND 11:
+ATC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 12:
+TC 
+Optimal Aligned Sequence: 
+ATC-T
+-TCA-
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 7 AND 12:
+TC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 13:
+ATC 
+Optimal Aligned Sequence: 
+A-T--CT
+ACTAGC-
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 7 AND 13:
+ACT
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 14:
+CT 
+Optimal Aligned Sequence: 
+ATCT
+--CT
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 7 AND 14:
+CT
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 15:
+ATT 
+Optimal Aligned Sequence: 
+AT-CT
+ATG-T
+Counted Steps for Alignment: 
+21
+
+Brute Force LCS Sequence 7 AND 15:
+ATT
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 16:
+CT 
+Optimal Aligned Sequence: 
+CT--
+CTGA
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 7 AND 16:
+CT
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 9:
+A 
+Optimal Aligned Sequence: 
+A--
+AGG
+Counted Steps for Alignment: 
+15
+
+Brute Force LCS Sequence 8 AND 9:
+A
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 10:
+T 
+Optimal Aligned Sequence: 
+CTCA
+-T--
+Counted Steps for Alignment: 
+24
+
+Brute Force LCS Sequence 8 AND 10:
+T
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 11:
+CC 
+Optimal Aligned Sequence: 
+C-TCA
+CG-C-
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 8 AND 11:
+TC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 12:
+TCA 
+Optimal Aligned Sequence: 
+CTCA
+-TCA
+Counted Steps for Alignment: 
+24
+
+Brute Force LCS Sequence 8 AND 12:
+TCA
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 13:
+CTC 
+Optimal Aligned Sequence: 
+CT--CA
+CTAGC-
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 8 AND 13:
+CTA
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 14:
+CT 
+Optimal Aligned Sequence: 
+CTCA
+CT--
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 8 AND 14:
+CT
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 15:
+T 
+Optimal Aligned Sequence: 
+CTCA
+-T--
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 8 AND 15:
+T
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 16:
+CTA 
+Optimal Aligned Sequence: 
+CT-CA
+CTG-A
+Counted Steps for Alignment: 
+21
+
+Brute Force LCS Sequence 8 AND 16:
+CTA
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 10:
+GG 
+Optimal Aligned Sequence: 
+AGG-
+-GGT
+Counted Steps for Alignment: 
+19
+
+Brute Force LCS Sequence 9 AND 10:
+GG
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 11:
+AG 
+Optimal Aligned Sequence: 
+A--G-G
+ATCGC-
+Counted Steps for Alignment: 
+21
+
+Brute Force LCS Sequence 9 AND 11:
+AG
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 12:
+GG 
+Optimal Aligned Sequence: 
+GG---
+GGTCA
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 9 AND 12:
+GG
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 13:
+AG 
+Optimal Aligned Sequence: 
+AG-G
+AGC-
+Counted Steps for Alignment: 
+22
+
+Brute Force LCS Sequence 9 AND 13:
+AG
+Counted Steps for Alignment: 
+76609
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 14:
+GG 
+Optimal Aligned Sequence: 
+GG--
+GGCT
+Counted Steps for Alignment: 
+16
+
+Brute Force LCS Sequence 9 AND 14:
+GG
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 15:
+AG 
+Optimal Aligned Sequence: 
+A-G-G
+ATGT-
+Counted Steps for Alignment: 
+17
+
+Brute Force LCS Sequence 9 AND 15:
+AG
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 16:
+A 
+Optimal Aligned Sequence: 
+AGG
+A--
+Counted Steps for Alignment: 
+15
+
+Brute Force LCS Sequence 9 AND 16:
+G
+Counted Steps for Alignment: 
+2346
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 11:
+TG 
+Optimal Aligned Sequence: 
+GT-G-GT
+-TCGC--
+Counted Steps for Alignment: 
+32
+
+Brute Force LCS Sequence 10 AND 11:
+TG
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 12:
+GGT 
+Optimal Aligned Sequence: 
+GGT--
+GGTCA
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 10 AND 12:
+GGT
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 13:
+TG 
+Optimal Aligned Sequence: 
+GT-G-GT
+-TAGC--
+Counted Steps for Alignment: 
+37
+
+Brute Force LCS Sequence 10 AND 13:
+TG
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 14:
+GGT 
+Optimal Aligned Sequence: 
+GTG-GT
+G-GC-T
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 10 AND 14:
+GGT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 15:
+TGT 
+Optimal Aligned Sequence: 
+GTGGT
+-T-GT
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 10 AND 15:
+TGT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 16:
+TG 
+Optimal Aligned Sequence: 
+GTG-GT
+-TGA--
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 10 AND 16:
+TG
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 11 AND 12:
+TC 
+Optimal Aligned Sequence: 
+ATC-GC
+-TCA--
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 11 AND 12:
+TC
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 11 AND 13:
+ATGC 
+Optimal Aligned Sequence: 
+A-T-CGC
+ACTA-GC
+Counted Steps for Alignment: 
+37
+
+Brute Force LCS Sequence 11 AND 13:
+ATGC
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 11 AND 14:
+GC 
+Optimal Aligned Sequence: 
+ATCGC-
+---GCT
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 11 AND 14:
+GC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 11 AND 15:
+ATG 
+Optimal Aligned Sequence: 
+ATCG-C
+AT-GT-
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 11 AND 15:
+ATG
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 11 AND 16:
+TG 
+Optimal Aligned Sequence: 
+ATCG-C
+-T-GA-
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 11 AND 16:
+TG
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 12 AND 13:
+GC 
+Optimal Aligned Sequence: 
+GGTCA
+-G-C-
+Counted Steps for Alignment: 
+35
+
+Brute Force LCS Sequence 12 AND 13:
+TA
+Counted Steps for Alignment: 
+425503
+
+-----------------------------------
+
+DP LCS Sequence 12 AND 14:
+GGT 
+Optimal Aligned Sequence: 
+GG-TCA
+GGCT--
+Counted Steps for Alignment: 
+26
+
+Brute Force LCS Sequence 12 AND 14:
+GGC
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 12 AND 15:
+GT 
+Optimal Aligned Sequence: 
+GGTCA
+-GT--
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 12 AND 15:
+GT
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 12 AND 16:
+GA 
+Optimal Aligned Sequence: 
+GGTCA
+-G--A
+Counted Steps for Alignment: 
+25
+
+Brute Force LCS Sequence 12 AND 16:
+TA
+Counted Steps for Alignment: 
+31375
+
+-----------------------------------
+
+DP LCS Sequence 13 AND 14:
+CT 
+Optimal Aligned Sequence: 
+ACTAGC
+-CT---
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 13 AND 14:
+GC
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 13 AND 15:
+ATG 
+Optimal Aligned Sequence: 
+ACTAG-C
+A-T-GT-
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 13 AND 15:
+ATG
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 13 AND 16:
+CTA 
+Optimal Aligned Sequence: 
+CT-AGC
+CTGA--
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 13 AND 16:
+CTG
+Counted Steps for Alignment: 
+192907
+
+-----------------------------------
+
+DP LCS Sequence 14 AND 15:
+GT 
+Optimal Aligned Sequence: 
+GGCT
+-G-T
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 14 AND 15:
+GT
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 14 AND 16:
+CT 
+Optimal Aligned Sequence: 
+CT--
+CTGA
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 14 AND 16:
+CT
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP LCS Sequence 15 AND 16:
+TG 
+Optimal Aligned Sequence: 
+ATG-T
+-TGA-
+Counted Steps for Alignment: 
+21
+
+Brute Force LCS Sequence 15 AND 16:
+TG
+Counted Steps for Alignment: 
+4761
+
+-----------------------------------
+
+DP Method Total Time: 14919600
+
+Brute Force Method Total Time: 6967304100

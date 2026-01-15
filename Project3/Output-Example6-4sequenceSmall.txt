@@ -1,0 +1,96 @@
+OUTPUT:
+
+
+DP LCS Sequence 1 AND 2:
+GC 
+Optimal Aligned Sequence: 
+G-C--
+GTCGT
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 1 AND 2:
+GC
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 3:
+AGC 
+Optimal Aligned Sequence: 
+A--GC
+ATTGC
+Counted Steps for Alignment: 
+20
+
+Brute Force LCS Sequence 1 AND 3:
+AGC
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 4:
+A 
+Optimal Aligned Sequence: 
+AGC
+A--
+Counted Steps for Alignment: 
+18
+
+Brute Force LCS Sequence 1 AND 4:
+C
+Counted Steps for Alignment: 
+13805
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 3:
+GC 
+Optimal Aligned Sequence: 
+GTCGT
+G-C--
+Counted Steps for Alignment: 
+30
+
+Brute Force LCS Sequence 2 AND 3:
+TG
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 4:
+TC 
+Optimal Aligned Sequence: 
+GTC-GT
+-TCA--
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 2 AND 4:
+CT
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 4:
+TTC 
+Optimal Aligned Sequence: 
+ATTGC-
+-TT-CA
+Counted Steps for Alignment: 
+31
+
+Brute Force LCS Sequence 3 AND 4:
+TTC
+Counted Steps for Alignment: 
+63001
+
+-----------------------------------
+
+DP Method Total Time: 12498800
+
+Brute Force Method Total Time: 84650900

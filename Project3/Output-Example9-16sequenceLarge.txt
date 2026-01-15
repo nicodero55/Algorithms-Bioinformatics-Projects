@@ -1,0 +1,1204 @@
+OUTPUT:
+
+
+DP LCS Sequence 1 AND 2:
+GCCGAAGTCGTTCGGAATGCCG 
+Optimal Aligned Sequence: 
+AG-C---C-GAA-----GTCGTTCGGAATGCCGTTG
+-GTCGTTCGGAATGCCGGTCGTTCGGAATGCC---G
+Counted Steps for Alignment: 
+998
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 3:
+AGCAAGCCGGCCG 
+Optimal Aligned Sequence: 
+A--GCCGAAGTCGTTCGGAATGCCG-TTG
+ATTG-C-AAG-C---C-G---GCCGA---
+Counted Steps for Alignment: 
+445
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 4:
+CCATCGGAATGCC 
+Optimal Aligned Sequence: 
+C--CGAAGTCGTTCGGAATGCCGTTG
+CTTC--A-----TCGGAATGCC----
+Counted Steps for Alignment: 
+416
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 5:
+AGCATCATCT 
+Optimal Aligned Sequence: 
+A---GCCGAAGTCGTTCGGAATGCCGT-TG
+ACTTG-C--A-----TC---AT--C-TA--
+Counted Steps for Alignment: 
+394
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 6:
+GCCGAATCGTTCGGAATT 
+Optimal Aligned Sequence: 
+G---CCGA---AGTCGT--TC--GG---AATGCCGTTG
+GTCTCCGATGCA-TCGTAGTCATGGCATAA-----TT-
+Counted Steps for Alignment: 
+844
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 7:
+ACCACCACC 
+Optimal Aligned Sequence: 
+AGCCGAAGTCGTTCGGA-ATGCC-GTTG
+A-CC--A--C---C--AC---CCA----
+Counted Steps for Alignment: 
+418
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 8:
+AGCCGAATCTTCGATGCG 
+Optimal Aligned Sequence: 
+A--G-C--CGA-AGTC-GT-TCGGA-ATGCCGTTG
+ATCGACTGCGATA-TCA-TATC-GAC-TG-C---G
+Counted Steps for Alignment: 
+815
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 9:
+ACCGAGCGCGATGCTT 
+Optimal Aligned Sequence: 
+AGC-CG-A---AGTCGTTCGGAATGC--CGTTG
+A-CACGCATGG-G-CG--C-G-ATGCAT--TT-
+Counted Steps for Alignment: 
+631
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 10:
+ACCAAAATGTG 
+Optimal Aligned Sequence: 
+AGCCGAAGTCGTTCGGAATGCCGTTG--
+A-CC-AA---------AAT---G-TGCA
+Counted Steps for Alignment: 
+522
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 11:
+AAAGTCTTCGACG 
+Optimal Aligned Sequence: 
+AGCCGAA-GT-C--GTT-CGGAATGCCGTTG
+A----AATGTGCAA-TTAC-G-A---C---G
+Counted Steps for Alignment: 
+551
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 12:
+CATCTTGGTCC 
+Optimal Aligned Sequence: 
+CGAAGTC----GTTCGGAATGCCGTTG
+C--A-TCTTTT-TT-GG--T-CC----
+Counted Steps for Alignment: 
+417
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 13:
+ACCGAAGTCGCGGATGCTTG 
+Optimal Aligned Sequence: 
+A-GC--C-GAA-G----T-C----GTTCG-GAATGC--CGTT-G
+AC-CTTCGGAATGCCATTGCATGGG--CGCG-ATGCAT--TTGG
+Counted Steps for Alignment: 
+1032
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 14:
+GCCGTTCGATGCG 
+Optimal Aligned Sequence: 
+GCCGAAGTCGTTCGGA-ATGCCGTTG
+G-C-----CGTTC-GAC-TG-C---G
+Counted Steps for Alignment: 
+390
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 15:
+ATGCG 
+Optimal Aligned Sequence: 
+ATGCCGTTG
+ATG-C---G
+Counted Steps for Alignment: 
+139
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 16:
+AGCCGAATTTCGGAATCGTTG 
+Optimal Aligned Sequence: 
+A---GC-CGA---AGTCGTT--C-G--GAA-TGCCGTT--G-
+ATGGGCGCGATGCA-T--TTGGCGGCCGAAGT--CGTTCGGA
+Counted Steps for Alignment: 
+1264
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 3:
+TTGCAAGCCGGCCGA 
+Optimal Aligned Sequence: 
+GTCGTGTCGTTCGGAATGCCGGTCGTTCGGAATGCCG
+----T-T-G--C--AA-GCCGG-C---C-G-A-----
+Counted Steps for Alignment: 
+629
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 4:
+CTTCATCGGAATGCC 
+Optimal Aligned Sequence: 
+CGTTCGGAATGCCGGTCGTTCGGAATGCCG
+C-TTC---A----------TCGGAATGCC-
+Counted Steps for Alignment: 
+585
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 5:
+CTTGCATCTCTA 
+Optimal Aligned Sequence: 
+GTCGTGTCGTTCGGAATGC-CGGTCGTTCGGAATGCCG
+--C-T-T-G--C---AT-CA---TC--T----A-----
+Counted Steps for Alignment: 
+556
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 6:
+GTCTCCGATGCCGGTCTGGAAT 
+Optimal Aligned Sequence: 
+GTCGTGTCGTTCGGAATGC--CG--GTC-GTTCGG---AA-TGCCG
+GTC---TC---C-G-ATGCATCGTAGTCA--T-GGCATAATT----
+Counted Steps for Alignment: 
+1193
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 7:
+TCTCCAACCCA 
+Optimal Aligned Sequence: 
+GTCGT-GTCGTTCGGA--ATGCCGGTCGTTCGGAATGCCG
+-TC-TA--C---C--ACCA---C---C---C---A-----
+Counted Steps for Alignment: 
+595
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 8:
+CTCTCGATGCGTCTTCGATGCG 
+Optimal Aligned Sequence: 
+CGTGTC-GTTCGGA-ATGCCG---GTC-GT-TCGGA-ATGCCG
+C---TCA--TC-GAC-TG-CGATA-TCA-TATC-GAC-TG-CG
+Counted Steps for Alignment: 
+1153
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 9:
+CCGCATGGGCGCGATGC 
+Optimal Aligned Sequence: 
+GTC-GTGTCGTTCGGAATGCCGGTCGTTCGGAATGC----CG
+--CA----CG--C---ATG--GG-CG--C-G-ATGCATTT--
+Counted Steps for Alignment: 
+893
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 10:
+GTCCCAATGTGCA 
+Optimal Aligned Sequence: 
+GT---C-GTGTCGTTC--GGAATGCCGGTCGTTCGGAATGCCG
+GTAAACA----C---CAA--AAT----GT-G--C---A-----
+Counted Steps for Alignment: 
+746
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 11:
+TGTGCAATTCGACG 
+Optimal Aligned Sequence: 
+GTCGTGTCGTTCGGAATGCCGGT-CGTTCGGAATGCCG
+----TGT-G--C--AAT-----TA----C-G-A---CG
+Counted Steps for Alignment: 
+778
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 12:
+CTCTTTTTTGGTCC 
+Optimal Aligned Sequence: 
+C-GTGTCGTTCGGAATGCCGGTCGTTCGGAATGCCG
+CA---TC-TT-----T-----T--TT-GG--T-CC-
+Counted Steps for Alignment: 
+591
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 13:
+CCTTCGGAATGCCGGCGCGGATGG 
+Optimal Aligned Sequence: 
+GTCGTGTCGTTCGGAATG-C----C---GGTCGTTCG--G-A--ATGCCG
+--C----C-TTCGGAATGCCATTGCATGGG-CG--CGATGCATT-TG--G
+Counted Steps for Alignment: 
+1456
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 14:
+GCCGTTCGACTGCG 
+Optimal Aligned Sequence: 
+GTCGTGTCGTTCGGAATGCCGGTCGTTCGGAATGCCG
+G-C----CGTTC-G-A-----------C----TG-CG
+Counted Steps for Alignment: 
+555
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 15:
+ATGCG 
+Optimal Aligned Sequence: 
+ATGCCG
+ATG-CG
+Counted Steps for Alignment: 
+191
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 16:
+GTCGGCGCGGATGCCGGTCGTTCGGA 
+Optimal Aligned Sequence: 
+G-----T-C---GTGTCGTTCG--G-A--AT----GCCG--GTCGTTCGGAATGCCG
+GCACATTGCATGG-G-CG--CGATGCATT-TGGCGGCCGAAGTCGTTCGG-A-----
+Counted Steps for Alignment: 
+1796
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 4:
+TTCAGGGCC 
+Optimal Aligned Sequence: 
+ATTGCA--AGCCG---GCCGA
+-TT-CATC-G--GAATGCC--
+Counted Steps for Alignment: 
+261
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 5:
+ATTGCAACA 
+Optimal Aligned Sequence: 
+A-TTGCA--A-GC-CGGCCGA
+ACTTGCATCAT-CT------A
+Counted Steps for Alignment: 
+245
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 6:
+ATGCAAGCGGCA 
+Optimal Aligned Sequence: 
+ATTGCA----AG-C--CGGC---CGA--
+A-TGCATCGTAGTCAT-GGCATA--ATT
+Counted Steps for Alignment: 
+524
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 7:
+ATTCAACCCA 
+Optimal Aligned Sequence: 
+AT-T--GCA--AGCCGGCCGA
+ATCTAC-CACCA--C--CC-A
+Counted Steps for Alignment: 
+261
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 8:
+ATTGCAACCGGCG 
+Optimal Aligned Sequence: 
+AT----TGC-A-A-GC----CG---GCCGA
+ATCGACTGCGATAT-CATATCGACTG-CG-
+Counted Steps for Alignment: 
+510
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 9:
+AGCAGCCGGCA 
+Optimal Aligned Sequence: 
+A-TTGCA---AGC-CG--GCCGA---
+AC--GCATGG-GCGCGATG-C-ATTT
+Counted Steps for Alignment: 
+394
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 10:
+ACACCGGCA 
+Optimal Aligned Sequence: 
+ATTGCAAGCC-----G-GCCGA
+A---C-A-CCAAAATGTG-C-A
+Counted Steps for Alignment: 
+326
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 11:
+ATTGCAACGCG 
+Optimal Aligned Sequence: 
+AT-TGC-A--AGCCG-GCCGA
+ATGTGCAATTA--CGA--CG-
+Counted Steps for Alignment: 
+341
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 12:
+ATTGGCC 
+Optimal Aligned Sequence: 
+A------TTGCAAG-CCGGCCGA
+ATCTTTTTTG---GT----CC--
+Counted Steps for Alignment: 
+263
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 13:
+ATTGAAGCCGGCCGA 
+Optimal Aligned Sequence: 
+A--TT--GCAA-G-C----C---GGC-C---G-A-----
+ACCTTCGG-AATGCCATTGCATGGGCGCGATGCATTTGG
+Counted Steps for Alignment: 
+647
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 14:
+TTGACGCG 
+Optimal Aligned Sequence: 
+ATT-GCAAGC-CGGCCGA
+-TTCG--A-CT--G-CG-
+Counted Steps for Alignment: 
+242
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 15:
+ATGCG 
+Optimal Aligned Sequence: 
+ATTGCAAGCCGGCCGA
+A-T--------G-CG-
+Counted Steps for Alignment: 
+96
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 16:
+ATTGCAAGCCGGCCGA 
+Optimal Aligned Sequence: 
+A-T---T----GC-A---A-------GCCG--G-C---C-GA
+ATTGCATGGGCGCGATGCATTTGGCGGCCGAAGTCGTTCGGA
+Counted Steps for Alignment: 
+794
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 5:
+CTTCATCATC 
+Optimal Aligned Sequence: 
+CTT-CATCGGAATGC--C
+CTTGCATC---AT-CTA-
+Counted Steps for Alignment: 
+228
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 6:
+CTTCATCGGATGC 
+Optimal Aligned Sequence: 
+CT----T-CATCG--G--AAT-GC------C
+CTCCGATGCATCGTAGTC-ATGGCATAATT-
+Counted Steps for Alignment: 
+496
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 7:
+CTCACACC 
+Optimal Aligned Sequence: 
+CT--TCA-TCGGA-ATGCC-
+CTAC-CAC-C--AC---CCA
+Counted Steps for Alignment: 
+245
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 8:
+CTTCATCGAATGCC 
+Optimal Aligned Sequence: 
+CT--TC-A-T-CG-----GA-AT-G-C--C-
+CTCATCGACTGCGATATC-ATATCGACTGCG
+Counted Steps for Alignment: 
+481
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 9:
+CCATCGGATGC 
+Optimal Aligned Sequence: 
+C-TTCAT---CG-GAATGC----C
+CG--CATGGGCGCG-ATGCATTT-
+Counted Steps for Alignment: 
+369
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 10:
+TCACAATGC 
+Optimal Aligned Sequence: 
+CT---TCA-TC--GGAA--TGC-C
+-TAAA-CAC-CAA--AATGTGCA-
+Counted Steps for Alignment: 
+309
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 11:
+TTCATCGAG 
+Optimal Aligned Sequence: 
+CT-T-C-A-T-CGGA-ATGCC
+-TGTGCAATTAC-GAC--G--
+Counted Steps for Alignment: 
+321
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 12:
+CTTTGGTCC 
+Optimal Aligned Sequence: 
+C---TTCATCGGAATGCC
+CTTTTT--T-GG--T-CC
+Counted Steps for Alignment: 
+243
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 13:
+CTTCATCGGAATG 
+Optimal Aligned Sequence: 
+C-TT-CAT---CG-GA---A--T-GCC
+CATTGCATGGGCGCGATGCATTTGG--
+Counted Steps for Alignment: 
+597
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 14:
+CTTCACTGC 
+Optimal Aligned Sequence: 
+C-TTC-ATCGGAATGC-C
+CGTTCGA-C----TGCG-
+Counted Steps for Alignment: 
+228
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 15:
+ATCG 
+Optimal Aligned Sequence: 
+AT-CGGAATGCC
+ATGC-----G--
+Counted Steps for Alignment: 
+87
+
+-----------------------------------
+
+DP LCS Sequence 4 AND 16:
+CTTCATCGGAATGCC 
+Optimal Aligned Sequence: 
+C-TT-CAT---CG-GA---A--T----------G-C---C---
+CATTGCATGGGCGCGATGCATTTGGCGGCCGAAGTCGTTCGGA
+Counted Steps for Alignment: 
+748
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 6:
+CTTGCATCATCTA 
+Optimal Aligned Sequence: 
+ACT----TG---C--A-TCAT--C-T-A--
+-CTCCGATGCATCGTAGTCATGGCATAATT
+Counted Steps for Alignment: 
+464
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 7:
+ACTCACACA 
+Optimal Aligned Sequence: 
+A-CT--TGCA-TCA--TCTA
+ATCTAC--CAC-CACC-C-A
+Counted Steps for Alignment: 
+230
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 8:
+ACTGCATCATCT 
+Optimal Aligned Sequence: 
+ACTTGC---ATC--AT---CT---A
+AC-TGCGATATCATATCGACTGCG-
+Counted Steps for Alignment: 
+445
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 9:
+ACTGCATCATT 
+Optimal Aligned Sequence: 
+A--C-T----TGC-AT-CA-TCTA
+ACGCATGGGC-GCGATGCATT-T-
+Counted Steps for Alignment: 
+346
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 10:
+ACCATTCA 
+Optimal Aligned Sequence: 
+ACTTGC---AT-CAT-CTA
+AC---CAAAATG--TGC-A
+Counted Steps for Alignment: 
+285
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 11:
+ATTGCATCAC 
+Optimal Aligned Sequence: 
+ACT-TGC-A-T-C-ATC-TA
+A-TGTGCAATTACGA-CG--
+Counted Steps for Alignment: 
+300
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 12:
+ACTTGTCC 
+Optimal Aligned Sequence: 
+A-C----TT-GCATCATCTA
+ATCTTTTTTGG--TC--C--
+Counted Steps for Alignment: 
+230
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 13:
+ACTTGCATCATCTA 
+Optimal Aligned Sequence: 
+A-C-T-----TG-CA-T-CAT-----C--T--A-----
+ACCTTCGGAATGCCATTGCATGGGCGCGATGCATTTGG
+Counted Steps for Alignment: 
+570
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 14:
+CTTGACTC 
+Optimal Aligned Sequence: 
+AC-TT-GCATCAT-C-TA
+-CGTTCG-A-C-TGCG--
+Counted Steps for Alignment: 
+214
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 15:
+ATGC 
+Optimal Aligned Sequence: 
+ACTTGC-ATCATCTA
+A--TGCG--------
+Counted Steps for Alignment: 
+85
+
+-----------------------------------
+
+DP LCS Sequence 5 AND 16:
+ACTTGCATCATCTA 
+Optimal Aligned Sequence: 
+A---C-T--------TGCA--T------C--A-TC--T---A
+ATTGCATGGGCGCGATGCATTTGGCGGCCGAAGTCGTTCGGA
+Counted Steps for Alignment: 
+700
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 7:
+TCTCCACACCCA 
+Optimal Aligned Sequence: 
+GTCT-CCGA-TGCATCGTAGTCATGGCATAATT
+-TCTACC-AC--CA-C-----C----C---A--
+Counted Steps for Alignment: 
+498
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 8:
+TCTCGATGCATCTATCATGG 
+Optimal Aligned Sequence: 
+GTC-TCCGA-TGC---ATC-GTAGTC-A-TG-GCATAATT
+-TCAT-CGACTGCGATATCA-TA-TCGACTGCG-------
+Counted Steps for Alignment: 
+970
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 9:
+CCCATGCCGATGCATTT 
+Optimal Aligned Sequence: 
+GTC-TC-CGAT--GC-ATCGTAGTCATGGCATAATT
+--CA-CGC-ATGGGCG--C---G--AT-GCAT--TT
+Counted Steps for Alignment: 
+749
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 10:
+GTCCCAAAATGGCA 
+Optimal Aligned Sequence: 
+GT---C-TCCGATGCATCGTAGTCATG-GCATAATT
+GTAAACA-CC-A---A----A---ATGTGC---A--
+Counted Steps for Alignment: 
+625
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 11:
+TGTGCATCGACG 
+Optimal Aligned Sequence: 
+GTCTCCGATGC-A-T-CGTAGTCATGGCATAATT
+---T--G-TGCAATTACG-A--C---G-------
+Counted Steps for Alignment: 
+654
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 12:
+TCTTTTTTGGC 
+Optimal Aligned Sequence: 
+GTCTCCGATGCATCGTAGTCATGG--CATAATT
+-TCT----T---T--T--T--TGGTCC------
+Counted Steps for Alignment: 
+498
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 13:
+TTCGATGCATTGCATGGCATATT 
+Optimal Aligned Sequence: 
+GTCTC-CG-ATG-CATCGTAGTCAT--G-GC-AT--A-ATT--
+-T-TCG-GAATGCCAT--T-G-CATGGGCGCGATGCAT-TTGG
+Counted Steps for Alignment: 
+1221
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 14:
+GCCGTTCGACTGG 
+Optimal Aligned Sequence: 
+GTCTCCGATGCATCGTAGTCATG-GCATAATT
+G---CCG-T---TCG-A--C-TGCG-------
+Counted Steps for Alignment: 
+466
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 15:
+ATGCG 
+Optimal Aligned Sequence: 
+ATCGTAGTCATGGCATAATT
+A---T-G-C---G-------
+Counted Steps for Alignment: 
+175
+
+-----------------------------------
+
+DP LCS Sequence 6 AND 16:
+GTCTCCGATGCATCGAGTCTGGA 
+Optimal Aligned Sequence: 
+G-----T-C-T---C-CGATGCA--T------CG-TAGTC--AT-GGCATAATT
+GCACATTGCATGGGCGCGATGCATTTGGCGGCCGA-AGTCGT-TCGG----A--
+Counted Steps for Alignment: 
+1511
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 8:
+ATCACCACCACC 
+Optimal Aligned Sequence: 
+ATC-TAC--C---A-C----C-AC--C-CA
+ATCG-ACTGCGATATCATATCGACTGCG--
+Counted Steps for Alignment: 
+480
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 9:
+ACACCACCACA 
+Optimal Aligned Sequence: 
+ATCTAC-CA----C-C-A--CCCA---
+A-C-ACGCATGGGCGCGATG--CATTT
+Counted Steps for Alignment: 
+372
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 10:
+ACACCAACA 
+Optimal Aligned Sequence: 
+ATCTACC--ACCA----CCCA
+A-C-ACCAAA--ATGTG--CA
+Counted Steps for Alignment: 
+306
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 11:
+ATCTACAC 
+Optimal Aligned Sequence: 
+A--T-C---TAC-CAC-CACCCA
+ATGTGCAATTACG-ACG------
+Counted Steps for Alignment: 
+323
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 12:
+ATCTCC 
+Optimal Aligned Sequence: 
+ATC--------TACCACCACCCA
+ATCTTTTTTGGT--------CC-
+Counted Steps for Alignment: 
+248
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 13:
+ATCTCCACACCCA 
+Optimal Aligned Sequence: 
+A---TC----T-ACCA---CCA----C-C----CA-----
+ACCTTCGGAATG-CCATTG-CATGGGCGCGATGCATTTGG
+Counted Steps for Alignment: 
+610
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 14:
+TTCACC 
+Optimal Aligned Sequence: 
+ATCTAC-CAC--C-ACCCA
+-T-T-CG-ACTGCG-----
+Counted Steps for Alignment: 
+229
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 15:
+ATC 
+Optimal Aligned Sequence: 
+AT-C-TACCACCACCCA
+ATGCG------------
+Counted Steps for Alignment: 
+92
+
+-----------------------------------
+
+DP LCS Sequence 7 AND 16:
+ATCTACCCCACCA 
+Optimal Aligned Sequence: 
+A-T-C-T-------A--C------C--ACC--A--C---C--CA
+ATTGCATGGGCGCGATGCATTTGGCGG-CCGAAGTCGTTCGG-A
+Counted Steps for Alignment: 
+749
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 9:
+CCATGCGCGATCATTT 
+Optimal Aligned Sequence: 
+C-TCAT--CGACTGCGAT-ATCATATCGACTGCG
+CG-CATGG-G-C-GCGATG--CAT-T----T---
+Counted Steps for Alignment: 
+724
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 10:
+TACACCAAAATGTGC 
+Optimal Aligned Sequence: 
+CT--CATCGACTGCGATATCATATCGACTGC-G
+-TAA-A-C-AC--C-A-A--A-AT-G--TGCA-
+Counted Steps for Alignment: 
+603
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 11:
+ATGTGCAATTACGACG 
+Optimal Aligned Sequence: 
+CTCATCGACTGCGATATCATATCGACTGCG
+---AT-G--TGC-A-AT--TA-CGA---CG
+Counted Steps for Alignment: 
+630
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 12:
+CTCTTTTTTGCC 
+Optimal Aligned Sequence: 
+C-TCATCGACTGCGATATCATAT-CG-ACTGCG
+CATC-T----T----T-T--T-TG-GT-C--C-
+Counted Steps for Alignment: 
+483
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 13:
+CTTCGATGCATTCATATCATGG 
+Optimal Aligned Sequence: 
+CTCATC-G-ACTG-CGATAT-CAT-------AT-CGA--CTGCG
+CT--TCGGAA-TGCC-AT-TGCATGGGCGCGATGC-ATT-TG-G
+Counted Steps for Alignment: 
+1184
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 14:
+GCCGTTCGACTGCG 
+Optimal Aligned Sequence: 
+GACTGCGATATCATATCGACTGCG
+G-C--CG------T-TCGACTGCG
+Counted Steps for Alignment: 
+444
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 15:
+ATGCG 
+Optimal Aligned Sequence: 
+ACTGCG
+A-TGCG
+Counted Steps for Alignment: 
+156
+
+-----------------------------------
+
+DP LCS Sequence 8 AND 16:
+CTCATCGATGCATTCAATCGCGG 
+Optimal Aligned Sequence: 
+C--T-CAT-----CGACTGCGA-TAT------C-ATA-TCG--ACTGCG-
+CATTGCATGGGCGCGA-TGC-ATT-TGGCGGCCGA-AGTCGTT-C-G-GA
+Counted Steps for Alignment: 
+1460
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 10:
+ACACCATGTGCA 
+Optimal Aligned Sequence: 
+ACACGC---ATGGGCGCGATGCATTT
+ACAC-CAAAAT------G-TGCA---
+Counted Steps for Alignment: 
+463
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 11:
+AAATGGCCGAG 
+Optimal Aligned Sequence: 
+ACACGCATG-GGC-----GCGA-TGCATTT
+A-A---ATGT-GCAATTA-CGAC-G-----
+Counted Steps for Alignment: 
+490
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 12:
+CACTGGCC 
+Optimal Aligned Sequence: 
+CA-C-----GCATGG-GCGCGATGCATTT
+CATCTTTTT---TGGT---C----C----
+Counted Steps for Alignment: 
+374
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 13:
+ACACGCATGGGCGCGATGCATTT 
+Optimal Aligned Sequence: 
+A----C---A---C---GCATGGGCGCGATGCATTT--
+ACCTTCGGAATGCCATTGCATGGGCGCGATGCATTTGG
+Counted Steps for Alignment: 
+912
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 14:
+CCGTCGCTGC 
+Optimal Aligned Sequence: 
+ACACG-CATGGGCG-CGATGC-ATTT
+-C-CGT--T---CGAC--TGCG----
+Counted Steps for Alignment: 
+348
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 15:
+ATGCG 
+Optimal Aligned Sequence: 
+ATGGGCGCGATGCATTT
+AT----GC---G-----
+Counted Steps for Alignment: 
+132
+
+-----------------------------------
+
+DP LCS Sequence 9 AND 16:
+ACAGCATGGGCGCGATGCATTT 
+Optimal Aligned Sequence: 
+ACA--CGCATGGGCGC---G-A--T----G-C--A-T--TT----
+ACATT-GCATGGGCGCGATGCATTTGGCGGCCGAAGTCGTTCGGA
+Counted Steps for Alignment: 
+1126
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 11:
+AAAACAATTGC 
+Optimal Aligned Sequence: 
+GTAAACA----CCAAAATGT--G-C-A
+--AAA-ATGTG-C--AAT-TACGACG-
+Counted Steps for Alignment: 
+407
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 12:
+CACTGTC 
+Optimal Aligned Sequence: 
+CA-C-----CAAAAT-GT-GCA
+CATCTTTTT-----TGGTC-C-
+Counted Steps for Alignment: 
+307
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 13:
+ACCCAAAATGTGCA 
+Optimal Aligned Sequence: 
+ACAC--C--AA----A----AT------G-TGCA-----
+AC-CTTCGGAATGCCATTGCATGGGCGCGATGCATTTGG
+Counted Steps for Alignment: 
+761
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 14:
+GTCACTGG 
+Optimal Aligned Sequence: 
+G-TAAAC-ACCAAAATG-TGCA
+GTT---CGA-C----TGC-G--
+Counted Steps for Alignment: 
+288
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 15:
+ATGG 
+Optimal Aligned Sequence: 
+ATG-TGCA
+ATGC-G--
+Counted Steps for Alignment: 
+103
+
+-----------------------------------
+
+DP LCS Sequence 10 AND 16:
+GAACACCAAAATGTGA 
+Optimal Aligned Sequence: 
+G-TA-A---ACA----C-C-A---A-----------AA-T-G-T--GCA
+GC-ACATTG-CATGGGCGCGATGCATTTGGCGGCCGAAGTCGTTCGG-A
+Counted Steps for Alignment: 
+942
+
+-----------------------------------
+
+DP LCS Sequence 11 AND 12:
+ATGGTCC 
+Optimal Aligned Sequence: 
+A-------AAAATGTGCAATTACGACG
+ATCTTTTT----TG-G----T-C--C-
+Counted Steps for Alignment: 
+327
+
+-----------------------------------
+
+DP LCS Sequence 11 AND 13:
+AAAAATGTGCATTGG 
+Optimal Aligned Sequence: 
+A-------AA----A----AT------G-TGCA-ATTACGACG
+ACCTTCGGAATGCCATTGCATGGGCGCGATGCAT-TT--G--G
+Counted Steps for Alignment: 
+803
+
+-----------------------------------
+
+DP LCS Sequence 11 AND 14:
+GGTTACGCG 
+Optimal Aligned Sequence: 
+G--TGCAATT--AC-GACG
+GCC-G---TTCGACTG-CG
+Counted Steps for Alignment: 
+299
+
+-----------------------------------
+
+DP LCS Sequence 11 AND 15:
+ATGCG 
+Optimal Aligned Sequence: 
+ATTACGACG
+A-T--G-CG
+Counted Steps for Alignment: 
+109
+
+-----------------------------------
+
+DP LCS Sequence 11 AND 16:
+AAAAATGGCAATTCGA 
+Optimal Aligned Sequence: 
+A-A----A--------A---A--T---GTG-C-AA----TTAC-GACG
+ACATTGCATGGGCGCGATGCATTTGGCG-GCCGAAGTCGTT-CGGA--
+Counted Steps for Alignment: 
+988
+
+-----------------------------------
+
+DP LCS Sequence 12 AND 13:
+CATCTTTTTTGG 
+Optimal Aligned Sequence: 
+C---AT--C--T---T--------T---TTTGGTCC
+CGGAATGCCATTGCATGGGCGCGATGCATTTGG---
+Counted Steps for Alignment: 
+606
+
+-----------------------------------
+
+DP LCS Sequence 12 AND 14:
+CCTTTGG 
+Optimal Aligned Sequence: 
+CATC-TT----TTTTG-GTCC
+C--CGTTCGAC---TGCG---
+Counted Steps for Alignment: 
+231
+
+-----------------------------------
+
+DP LCS Sequence 12 AND 15:
+ATCG 
+Optimal Aligned Sequence: 
+AT-CTTTTTTGGTCC
+ATGC-------G---
+Counted Steps for Alignment: 
+90
+
+-----------------------------------
+
+DP LCS Sequence 12 AND 16:
+CATCTTTTTGGTCC 
+Optimal Aligned Sequence: 
+CA-T-C-T--------T---TTT-------TG--GTC---C---
+CATTGCATGGGCGCGATGCATTTGGCGGCC-GAAGTCGTTCGGA
+Counted Steps for Alignment: 
+749
+
+-----------------------------------
+
+DP LCS Sequence 13 AND 14:
+CCTTCGACTGCG 
+Optimal Aligned Sequence: 
+ACC-TTCGGAATGCCATTGCATGGGCGCGATGCATTTGG
+-CCG-T-----T--C---G-A------C--TGC-----G
+Counted Steps for Alignment: 
+571
+
+-----------------------------------
+
+DP LCS Sequence 13 AND 15:
+ATGCG 
+Optimal Aligned Sequence: 
+ATGCATTTGG
+ATGC-----G
+Counted Steps for Alignment: 
+200
+
+-----------------------------------
+
+DP LCS Sequence 13 AND 16:
+ACTTCGGGCCATGCATGGGCCGATGTTGG 
+Optimal Aligned Sequence: 
+AC-CTT-C--GGAATGC-C-ATTGCA--T-G-GGCGCG-A-T-GCATT-TGG-
+ACA-TTGCATGG---GCGCGA-TGCATTTGGCGGC-CGAAGTCG--TTC-GGA
+Counted Steps for Alignment: 
+1839
+
+-----------------------------------
+
+DP LCS Sequence 14 AND 15:
+ATGCG 
+Optimal Aligned Sequence: 
+ACTGCG
+A-TGCG
+Counted Steps for Alignment: 
+76
+
+-----------------------------------
+
+DP LCS Sequence 14 AND 16:
+GCCGTTCGACTGG 
+Optimal Aligned Sequence: 
+GC-C---G---TT------CG-A--C--T-GCG-
+GCGCGATGCATTTGGCGGCCGAAGTCGTTCG-GA
+Counted Steps for Alignment: 
+692
+
+-----------------------------------
+
+DP LCS Sequence 15 AND 16:
+ATGCG 
+Optimal Aligned Sequence: 
+A-T-G--C-G-
+AGTCGTTCGGA
+Counted Steps for Alignment: 
+246
+
+-----------------------------------
+
+DP Method Total Time: 20803700

@@ -1,0 +1,4 @@
+S1 = AGC
+S2 = GTCGT
+S3 = ATTGC
+S4 = CTTCA

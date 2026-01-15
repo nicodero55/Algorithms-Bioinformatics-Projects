@@ -1,0 +1,4 @@
+S1 = ACSA
+S2 = GTCTG
+S3 = ATTCG
+S4 = CT

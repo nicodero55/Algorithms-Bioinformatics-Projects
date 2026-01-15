@@ -1,0 +1,64 @@
+OUTPUT:
+
+
+DP LCS Sequence 1 AND 2:
+ACTACTATCATCATCA 
+Optimal Aligned Sequence: 
+A-C-T-A-C-T-ACTACTACTACTACTACTACT
+ATCATCATCATCA-T-C-A-T-C-A-T-C-A--
+Counted Steps for Alignment: 
+681
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 3:
+CTACTACTACTACTACTACTA 
+Optimal Aligned Sequence: 
+CTACTACTACTACTACTACTACT
+CTACTACTACTACTACTACTA--
+Counted Steps for Alignment: 
+590
+
+-----------------------------------
+
+DP LCS Sequence 1 AND 4:
+ACTACTACTACTACTCATCA 
+Optimal Aligned Sequence: 
+A-C-T-A-C-T-A-C-T-A-C-T-A-C-TACTACTACTACT
+ATCATCATCATCATCATCATCATCATCAT-C-A-T-C-A--
+Counted Steps for Alignment: 
+986
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 3:
+TCATCACTACTACTA 
+Optimal Aligned Sequence: 
+T-C-A-T-C-ATCATCATCATCATCATCA
+TACTACTACTA-C-T-A-C-T-A-C-T-A
+Counted Steps for Alignment: 
+533
+
+-----------------------------------
+
+DP LCS Sequence 2 AND 4:
+TCATCATCATCATCATCATCATCA 
+Optimal Aligned Sequence: 
+TCATCATCATCATCATCATCATCA
+TCATCATCATCATCATCATCATCA
+Counted Steps for Alignment: 
+864
+
+-----------------------------------
+
+DP LCS Sequence 3 AND 4:
+CTACTACTACTACTACTCA 
+Optimal Aligned Sequence: 
+C-T-A-C-T-A-C-T-A-C-T-A-C-T-A-C-TACTA
+CATCATCATCATCATCATCATCATCATCATCAT-C-A
+Counted Steps for Alignment: 
+772
+
+-----------------------------------
+
+DP Method Total Time: 14838000
